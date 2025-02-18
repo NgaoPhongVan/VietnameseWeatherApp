@@ -95,10 +95,6 @@ Một số ý tưởng để phát triển dự án trong tương lai:
 - Thêm tùy chọn đổi đơn vị đo (°C/°F)
 - Hỗ trợ nhiều ngôn ngữ hơn
 
-## Giấy phép
-
-[MIT License](https://opensource.org/licenses/MIT)
-
 ## Tác giả
 
 [Lê Văn Thuận] - [thienle1247@gmail.com]
